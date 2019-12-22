@@ -6,7 +6,7 @@ class Dog
   end
 
   def name
-    this_dog
+    dog_name
   end
 
   def bark
